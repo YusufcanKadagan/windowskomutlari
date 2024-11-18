@@ -7,7 +7,7 @@
  arp
  ```
  
- ![resimİsmi](Resimlerwin/arp.png "Açıklama")
+ ![resimİsmi](resimlerwin/arp.png "Açıklama")
   ## `attrib` Komutu
 Dosya veya klasör özniteliklerini değiştirmeye yarar. 
  ```bash
